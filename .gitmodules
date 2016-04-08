@@ -1,3 +1,6 @@
 [submodule "3rdparty/cryptopp"]
 	path = 3rdparty/cryptopp
 	url = git@github.com:wyrover/cryptopp.git
+[submodule "3rdparty/crashrpt"]
+	path = 3rdparty/crashrpt
+	url = git@github.com:wyrover/crashrpt.git
