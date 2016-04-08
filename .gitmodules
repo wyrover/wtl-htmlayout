@@ -1,0 +1,3 @@
+[submodule "3rdparty/cryptopp"]
+	path = 3rdparty/cryptopp
+	url = git@github.com:wyrover/cryptopp.git
